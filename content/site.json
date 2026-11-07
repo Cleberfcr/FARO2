@@ -1,0 +1,22 @@
+{
+  "brand": "FARO",
+  "workingName": true,
+  "tagline": "Um faro para ofertas. Critério para decidir.",
+  "description": "Radar editorial de oportunidades e curadoria de produtos com fontes, estimativas e incertezas explícitas.",
+  "publicOrigin": "",
+  "marketplaceAllowedOrigins": ["https://8328-i75069g9sqa44k7w7gj8q-0adf2436.us3.manus.computer"],
+  "marketplaceCallbackPath": "/api/mercadolivre/oauth/callback",
+  "heroImage": "/manus-storage/async-images/grTNjFgHsWsSiktfnIGjTu/image-1.webp",
+  "staticHeroImage": "/manus-storage/async-images/grTNjFgHsWsSiktfnIGjTu/image-1.webp",
+  "whatsappNumber": "",
+  "contactEmail": "",
+  "legalName": "",
+  "newsletterEnabled": false,
+  "affiliateLinksConfigured": false,
+  "newsletterProvider": "netlify",
+  "researchDate": "2026-11-06",
+  "researchLabel": "Pesquisa da primeira rodada: 06 nov. 2026",
+  "palette": {"ink":"#16221D","forest":"#214D3A","paper":"#F6F5EF","lime":"#D7EA84","muted":"#66716B","line":"#DDE1D8"},
+  "disclosure": "O FARO pode receber comissão por compras qualificadas quando um link afiliado válido estiver configurado. As ofertas só serão exibidas após conferência declarada pelo editor; isso não altera a avaliação nem garante recomendação.",
+  "privacyNote": "Favoritos ficam apenas neste navegador. A newsletter está desativada por padrão. Quando a busca Mercado Livre estiver conectada, o termo será enviado à API e não gravado no banco FARO. Tokens OAuth administrativos são criptografados no banco gerenciado compartilhado entre Preview e produção; as chaves ficam somente em secrets do servidor."
+}

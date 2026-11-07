@@ -1,0 +1,18 @@
+{
+  "routes": [
+    {"path":"/","title":"FARO — Radar de Oportunidades"},
+    {"path":"/radar/","title":"Radar de oportunidades"},
+    {"path":"/oportunidades/:slug/","title":"Análise de oportunidade"},
+    {"path":"/fornecedores/","title":"Programas e fontes"},
+    {"path":"/metodologia/","title":"Metodologia FARO"},
+    {"path":"/guias/primeiro-teste/","title":"Guia de validação em sete dias"},
+    {"path":"/sobre/","title":"Sobre o FARO"},
+    {"path":"/afiliados/","title":"Divulgação de afiliados"},
+    {"path":"/privacidade/","title":"Política de Privacidade"},
+    {"path":"/termos/","title":"Termos de uso"},
+    {"path":"/cookies/","title":"Cookies e métricas"},
+    {"path":"/painel/","title":"Editar dados locais"},
+    {"path":"/conectar-mercadolivre/","title":"Configurar conexão Mercado Livre"},
+    {"path":"/obrigado/","title":"Inscrição recebida"}
+  ]
+}
